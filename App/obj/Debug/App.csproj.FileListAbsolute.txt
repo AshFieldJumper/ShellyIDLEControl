@@ -1,0 +1,13 @@
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\bin\Debug\App.exe.config
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\bin\Debug\App.exe
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\bin\Debug\App.pdb
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\bin\Debug\Newtonsoft.Json.dll
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\bin\Debug\Newtonsoft.Json.xml
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.Form1.resources
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.Properties.Resources.resources
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.csproj.CopyComplete
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.exe
+D:\_Documenten\Bureaublad\Win32_API\Win32_API\App\obj\Debug\App.pdb
